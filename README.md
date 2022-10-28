@@ -14,7 +14,7 @@
   npm i
 
   # Usage
-  npm start or go to https://fathomless-hamlet-74411.herokuapp.com 
+  npm start or go to https://fathomless-hamlet-74411.herokuapp.com
 
   # Test
   npm test
